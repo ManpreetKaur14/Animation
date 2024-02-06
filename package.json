@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "framesync": "^6.1.2",
+    "hey-listen": "^1.0.8",
+    "lodash": "^4.17.21",
+    "popmotion": "^11.0.5",
+    "style-value-types": "^5.1.2",
+    "tslib": "^2.6.2"
+  },
+  "type": "module",
+  "main": "index.js"
+}
